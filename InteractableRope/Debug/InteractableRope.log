@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\enes\documents\visual studio 2015\projects\interactablerope\interactablerope\window.h(20): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\enes\documents\visual studio 2015\projects\interactablerope\interactablerope\main.cpp(121): warning C4018: '<': signed/unsigned mismatch
+c:\users\enes\documents\visual studio 2015\projects\interactablerope\interactablerope\main.cpp(170): warning C4018: '<': signed/unsigned mismatch
+c:\users\enes\documents\visual studio 2015\projects\interactablerope\interactablerope\main.cpp(275): warning C4018: '<': signed/unsigned mismatch
+c:\users\enes\documents\visual studio 2015\projects\interactablerope\interactablerope\main.cpp(333): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  InteractableRope.vcxproj -> C:\Users\Enes\documents\visual studio 2015\Projects\InteractableRope\Debug\InteractableRope.exe
+  InteractableRope.vcxproj -> C:\Users\Enes\documents\visual studio 2015\Projects\InteractableRope\Debug\InteractableRope.pdb (Full PDB)

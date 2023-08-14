@@ -1,4 +1,7 @@
 # InteractableRope
+
+Interactable Rope with OpenGL(C++)
+
 Drawing Sphere Mesh, Collision Response, Rope Simulation, Skybox, Directional Light-Spot Light, Shadow Maps
 
 ![ezgif-2-4848ca3e34](https://github.com/EnesSahin4120/InteractableRope/assets/65425355/7b192aad-a701-40fe-a4de-ed41b7f87b78)
